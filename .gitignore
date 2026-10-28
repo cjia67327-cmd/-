@@ -1,0 +1,3 @@
+node_modules/
+backend/recordings/*.webm
+.DS_Store
